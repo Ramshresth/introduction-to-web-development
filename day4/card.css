@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+main{
+    height: 100vh;
+}
+
+
+
+
+
+
+body{
+    background-color:rgb(216, 216, 216);
+}
+.ID{
+    width: 400px;
+    padding: 14px;
+    background-color: rgb(234, 212, 212);
+    margin:20px ;
+
+
+}
+.header{
+    background-color :rgb(154, 166, 176);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.image{
+    text-align: center;
+    width: 100%;
+}
+
+.details{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.foot{
+    text-align: center;
+}
